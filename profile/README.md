@@ -1,4 +1,7 @@
-Welcome to Digital Trust Center of the University of Applied Sciences and Arts, Northwestern Switzerland.
+Welcome to SwissSec!
 
-We are leading in Cybersecurity, Blockchain, Privacy and Digital Trust. 
+We do software verification made in Switzerland
+
+By University of Basel and University of Applied Sciences, Northwestern Switzerland.
+
 
